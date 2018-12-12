@@ -1,0 +1,4 @@
+# Language Packs
+The *Sitefinity CMS* language packs provided in this repository contain the labels and messages with their translated values up to *Sitefinity CMS* version **10.2**. You can import these language packs in your *Sitefinity CMS* project by following the steps described in the official *Sitefinity CMS* documentation for [Backend languages](https://www.progress.com/documentation/sitefinity-cms/backend-languages).
+
+Labels and messages introduced in *Sitefinity CMS* versions after **10.2** are provided under the **DiffForTranslation** folder of this repository. You will need to modify the **.xlsx** files and update the **Value** column entries by replacing the **English** values with your own translations. Afterwards you can proceed to import the modified language pack diff in your **Sitefinity CMS** project.
